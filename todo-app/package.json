@@ -1,8 +1,7 @@
 {
-  "name": "snake-game",
+  "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://a14506818.github.io/webPageDemo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
