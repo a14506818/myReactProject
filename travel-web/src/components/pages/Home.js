@@ -9,7 +9,6 @@ export default function Home() {
     <div>
       <HeroSection></HeroSection>
       <Cards></Cards>
-      <Footer></Footer>
     </div>
   );
 }
